@@ -1,0 +1,1 @@
+setInterval(()=>{console.log('vijay')},2000)
